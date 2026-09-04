@@ -1,4 +1,4 @@
-# react-pro · React 语法学习项目
+# react-pro · React 
 
 用 Vite + React 18 搭建的最小可运行项目
 
